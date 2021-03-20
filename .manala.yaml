@@ -1,0 +1,13 @@
+####################################################################
+# !!! REMINDER !!!                                                 #
+# Don't forget to run `manala up` each time you update this file ! #
+####################################################################
+
+manala:
+    recipe: dev.python
+    repository: /Users/loic/Ops/manala-recipes
+
+# Default vars
+gitignore: ""
+recipe_save: dev.python
+semantic_release: {}
